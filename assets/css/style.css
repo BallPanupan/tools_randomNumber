@@ -1,0 +1,43 @@
+.main {
+    width: 317px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.main input {
+    font-size: 36px;
+    width: 230px;
+    padding: 4px 10px;
+}
+
+.btn-group {
+    width: 80px;
+}
+
+.btn-group button {
+    width: 100%;
+    padding: 10px;
+    font-size: 18px;
+    margin: 2px;
+}
+
+.options {
+    display: flex;
+    justify-content: space-around;
+}
+
+.options button {
+    width: 70px;
+    margin: 3px;
+    height: 50px;
+}
+
+.options-1 {
+    width: 75px;
+}
+
+.options-1 button {
+    margin: 3px 0px;
+}
